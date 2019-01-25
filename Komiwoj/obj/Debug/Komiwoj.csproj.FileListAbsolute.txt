@@ -1,0 +1,13 @@
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\bin\Debug\Komiwoj.exe.config
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\bin\Debug\Komiwoj.exe
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\bin\Debug\Komiwoj.pdb
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\obj\Debug\Komiwoj.csprojResolveAssemblyReference.cache
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\obj\Debug\Komiwoj.exe
+C:\Users\Student12\Desktop\Komiwoj\Komiwoj\obj\Debug\Komiwoj.pdb
+D:\komiwoj\Komiwoj\bin\Debug\Komiwoj.exe.config
+D:\komiwoj\Komiwoj\bin\Debug\Komiwoj.exe
+D:\komiwoj\Komiwoj\bin\Debug\Komiwoj.pdb
+D:\komiwoj\Komiwoj\obj\Debug\Komiwoj.csprojResolveAssemblyReference.cache
+D:\komiwoj\Komiwoj\obj\Debug\Komiwoj.csproj.CoreCompileInputs.cache
+D:\komiwoj\Komiwoj\obj\Debug\Komiwoj.exe
+D:\komiwoj\Komiwoj\obj\Debug\Komiwoj.pdb
